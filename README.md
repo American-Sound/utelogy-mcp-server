@@ -154,7 +154,7 @@ This server wraps the [Utelogy REST API](https://portal.utelogy.com/swagger/docs
 
 ## Quality and Testing
 
-All software published to the American Sound GitHub organization has been tested in either a production client environment or the American Sound integration lab prior to publication.
+All software published to the American Sound GitHub organization has been tested in either a production client environment with their permission or the American Sound integration lab prior to publication.
 
 ## Contact
 
