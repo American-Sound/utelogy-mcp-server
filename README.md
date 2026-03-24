@@ -2,7 +2,7 @@
 
 An MCP server that gives AI coding assistants direct access to the Utelogy U-Manage portal REST API, covering rooms, assets, alerts, and the Global Device Library. It runs entirely on your local machine using Deno, communicates over stdio, and connects to your own Utelogy portal account using credentials you provide. Nothing is hosted, proxied, or routed through American Sound or any third party.
 
-This server is open source and available to anyone with a Utelogy portal account and API credentials. You do not need to be an American Sound client to use it. This project was developed by American Sound with Utelogy's knowledge and permission. American Sound is solely responsible for supporting this integration. Utelogy does not provide direct support for third party platforms and services.
+This server is open source and available to anyone with a Utelogy portal account and API credentials (The Utelogy platform itself is NOT open source, and you must have a valid Utelogy subscription to access the REST API). You do not need to be an American Sound client to use it. This project was developed by American Sound with Utelogy's knowledge and permission. American Sound is solely responsible for supporting this integration. Utelogy does not provide direct support for third party platforms and services.
 
 ## Supported AI Platforms
 
